@@ -9,7 +9,7 @@ The model and dataset have been uploaded on HuggingFace:
 
 Note that the dataset on HuggingFace is in the prompt-completion pair format, which can be used for direct training.
 
-Bibtex: 
+BibTeX:
 
 ```
 @article{tian2024chartgpt,
